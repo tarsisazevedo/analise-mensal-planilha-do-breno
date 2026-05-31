@@ -1,3 +1,5 @@
+> Este repositorio não é oficial, não tem ligação com a Escola do Breno e tem objetivo não-comercial.
+
 # 📊 Análise Mensal — Planilha do Breno
 
 Skill para o **Claude (Cowork)** que analisa sua planilha financeira mensal, cruza extrato bancário com faturas de cartão, atualiza sua fotografia financeira e calcula o diário.
@@ -15,6 +17,8 @@ Skill para o **Claude (Cowork)** que analisa sua planilha financeira mensal, cru
 - Gera um relatório completo do mês
 
 ---
+### Me pague um café (ou fraldas)
+<img width=320 height=279 alt="Doe por pix" src="https://github.com/user-attachments/assets/a5eee6ad-0327-4e9a-8c70-0fa6d80ccbb6" />
 
 ## 📥 Como instalar
 
